@@ -1,0 +1,14 @@
+div{
+    width: 900px;
+    height: 100px;
+    background-color: blue;
+    margin: 20%   auto;
+    padding: 40px;
+}
+
+p{
+    background-color: red;
+    color: white;
+    padding: 20px;
+    text-align: justify;
+}
